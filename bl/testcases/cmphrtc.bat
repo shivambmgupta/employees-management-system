@@ -1,0 +1,1 @@
+java -classpath c:\hr\bl\lib\*;c:\hr\bl\classes;. test1
